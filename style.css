@@ -22,6 +22,12 @@ div#second {
 	font-size: 30px;
 }
 
+div#third {
+  background-color:#150C40;
+  font-size: 30px;
+}
+
+
 #navbar {
   overflow: hidden;
   background-color: #0D0729;
